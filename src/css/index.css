@@ -1,0 +1,29 @@
+.Genshin-Impact {
+  display: flex;
+  gap: 20px;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  width: 200px;
+  height: 500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.image1 {
+  background-image: url("../images/风神-温迪.jpg");
+}
+.image2 {
+  background-image: url("../images/岩神-钟离.jpg");
+}
+.image3 {
+  background-image: url("../images/雷神-雷电影.jpg");
+}
+.image4 {
+  background-image: url("../images/草神-纳西妲.jpg");
+}
+.image5 {
+  background-image: url("../images/水神-芙宁娜.png");
+}
+
